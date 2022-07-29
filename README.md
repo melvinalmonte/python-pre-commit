@@ -11,6 +11,10 @@
 
 ## Notes
 
-View .pre-commit-config.yaml for an example of the pre-commit config that will be installed.
+View `.pre-commit-config.yaml` for an example of the pre-commit config that will be installed.
 
-View pyproject.toml for an example of a simple Black config.
+View `pyproject.toml` for an example of a simple Black config.
+
+View `.flake8` for the flake8 config.
+
+[This](https://ljvmiranda921.github.io/notebook/2018/06/21/precommits-using-black-and-flake8/) is a great article that pretty much sets up a project the same way.
